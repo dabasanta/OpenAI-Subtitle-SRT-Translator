@@ -23,6 +23,11 @@ $ python translator.py
 ```
 
 # Usage
+Configure the API key of your OpenAI account using the variable `OPENAI_API_KEY`
+```bash
+$ export OPENAI_API_KEY="your_api_key_here”
+```
+Now you can run the script:
 ```bash
 $ python translator.py movie.srt
 ```
