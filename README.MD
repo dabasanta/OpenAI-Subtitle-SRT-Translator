@@ -26,6 +26,7 @@ $ python translator.py
 ```bash
 $ python translator.py movie.srt
 ```
+![translator.py running](https://github.com/dabasanta/OpenAI-Subtitle-SRT-Translator/blob/main/img/example.png?raw=true)
 
 By default, the script translates to Spanish. You can specify the language you want to translate to by specifying the language at the end of the script. You can use the name of the language or its ISO 639-1 codes (abbreviations). For example
 - Spanish - es
